@@ -1,0 +1,12 @@
+Video conferencing problems
+---------------------------------------
+1. remove share link option
+2. Name is showing john to both screen.
+3. in action button tooltips change text
+4. in chat file sharing. it should show filename with extension.
+5. after cut the call it again open the meeting link. it should close the tab. or show thank you message.
+6. undo=redo/take screenshot action buttons should be top right corner.
+7. add some more white board icons like circle,eclips, hexagon etc.
+8. either add some prompt to screen that "double click on view for full screen" or provide a icon for full screen in views.
+9. in screen recording it should repsent a dot with blink system.
+ 
